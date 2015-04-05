@@ -1,0 +1,17 @@
+From: Cole, John <jxc064000@utdallas.edu>
+
+??The SQL Workshop you signed up for will be from 1:00 to 5:00 in the TI Auditorium in ECSS.  This is just inside the main entrance to the building.  Bring a laptop, preferably with either Microsoft SQL Server or MySQL already installed.  Links for these and for a sample database can be found on my Web site under the Announcements:  http://www.utdallas.edu/~John.Cole.
+
+This is a beginning-level workshop, so no knowledge of SQL is assumed, but I do assume you can program in Java.  Topics will include:
+
+
+·         Basic SQL SELECT queries, as well as slightly more advanced topics like the GROUP BY and HAVING clauses
+
+·         Basic SQL UPDATE queries
+
+·         Use of SQL Server Management Studio
+
+·         Accessing SQL Server from Java using JDBC
+
+See you there.
+Prof. Cole
